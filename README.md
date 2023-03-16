@@ -27,3 +27,9 @@ npm run dev
 ```sh
 npm run build
 ```
+
+### After starting the vue application, you need to start django on port 3000
+
+```sh
+python mamange.py runserver 3000
+```
